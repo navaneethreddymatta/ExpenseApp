@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addExpense_label">Current Expenses: </string>
+    <string name="addExpense_hint">There is no expense to show, Please add your expenses from the menu.</string>
+    <string name="add_Title">Add An Expense </string>
+    <string name="add_Name">Expense Name</string>
+    <string name="add_Category">Category</string>
+    <string name="add_Amount">Amount</string>
+    <string name="add_SubmitButton">Add Expense</string>
+    <string name="add_CancelButton">Cancel</string>
+
+    <string name="detail_Title">Expense Details</string>
+    <string name="detail_Name">Name</string>
+    <string name="detail_Category">Category</string>
+    <string name="detail_Amount">Amount</string>
+    <string name="detail_Date">Date</string>
+
+    <string name="app_name_add">Add Expense</string>
+    <string name="app_name_view">Show Expense</string>
+
+</resources>
